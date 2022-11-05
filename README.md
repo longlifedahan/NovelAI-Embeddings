@@ -8,5 +8,6 @@
 （3）yileina.pt    伊蕾娜<br>
 （4）atdan-art.pt  atdan画风<br>
 （5）dianniang.pt  点娘<br>
+（6）ayanami.pt    绫波<br>
 
 
