@@ -3,4 +3,5 @@
 如果可以，请star本仓库或一键三连
 非常感谢
 
-|_ruoyin.pt     弱音
+（1）ruoyin.pt     弱音
+
