@@ -9,5 +9,6 @@
 （4）atdan-art.pt  atdan画风<br>
 （5）dianniang.pt  点娘<br>
 （6）ayanami.pt    绫波<br>
+（7）ailixiya.pt   爱莉希雅（15500、12400平均效果好，但6200、9300也还不错）<br>
 
 
