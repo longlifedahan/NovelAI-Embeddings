@@ -10,5 +10,6 @@
 （5）dianniang.pt  点娘<br>
 （6）ayanami.pt    绫波<br>
 （7）ailixiya.pt   爱莉希雅（15500、12400平均效果好，但6200、9300也还不错）<br>
+（8）sshly.pt      上杉绘梨衣（ori是拿原图练的、i2i是拿imgtoimg修改后的图练的，效果见仁见智吧）<br>
 
 
