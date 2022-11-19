@@ -4,7 +4,7 @@
 非常感谢<br>
 
 （1）ruoyin.pt     弱音<br>
-（2）gyn.pt        古月娜<br>
+（2）gyn.pt        古月娜（有四个，1是最开始练的，效果不好，2是黑白服装的古月娜，great效果比1好不少，last的话和great差不多）<br>
 （3）yileina.pt    伊蕾娜<br>
 （4）atdan-art.pt  atdan画风<br>
 （5）dianniang.pt  点娘<br>
