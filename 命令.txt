@@ -1,0 +1,1 @@
+git push https://github.com/longlifedahan/NovelAI-Embeddings.git master
