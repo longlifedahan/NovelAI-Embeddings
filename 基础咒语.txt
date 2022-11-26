@@ -1,0 +1,17 @@
+【基础咒语】
+((masterpiece)), (((best quality))), ((ultra-detailed)), ((illustration)), ((disheveled hair)),1 girl,solo
+
+longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality
+
+【升级咒语】
+masterpiece,best quality,bestquality,full body,Amazing,beautiful detailed eyes,1girl,finely detail,Depth of field,extremely detailed CG unity,8k wallpaper, Paint New Image,
+
+multiple breasts, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, single color, ((((ugly)))), (((duplicate))), ((morbid)), ((mutilated)), (((tranny))), (((trans))), (((trannsexual))), (hermaphrodite), (out of frame), extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), (((disfigured))), out of frame, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands,(fused fingers), (too many fingers), (((long neck))), more than one people, more than one light, more than one head, more than one face, more than one body
+
+【冰雪法咒（生成1920*1080时有效藏手问题）】
+hiten_1, (((masterpiece))),best quality, illustration,(beautiful detailed girl),beautiful detailed glow,detailed ice,beautiful detailed water,(beautiful detailed eyes),expressionless,beautiful detailed white gloves, (floating palaces:1.2),azure hair,disheveled hair,long bangs, hairs between eyes,black ribbon,white bowties,midriff,{{{half closed eyes}}},big forhead,blank stare,flower,large top sleeves,(((ice crystal texture wings))),{{{{{{{{Iridescence and rainbow hair:2.5}}}}}}},{{{{{{detailed cute anime face}}}}}},{{{{{watercolor_(medium)}}}},(((masterpiece))),
+
+{{{ugly}}},{{{duplicate}}},{{morbid}},{{mutilated}},{{{tranny}}},mutated hands,{{{poorly drawn hands}}},blurry,{{bad anatomy}},{{{bad proportions}}},extra limbs,cloned face,{{{disfigured}}},{{{more than 2 nipples}}},{{{{missing arms}}}},{{{extra legs}}},mutated hands,{{{{{fused fingers}}}}},{{{{{too many fingers}}}}},{{{unclear eyes}}},lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad
+
+【备注】
+对应pt的人物tag在前效果好（更像），但在后面也不是不行，可以自由调整
